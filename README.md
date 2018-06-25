@@ -125,7 +125,7 @@ Where [SIZE] is an integer higher than the default.
 
 # LICENSE!
 
-Geofence is [MIT-licensed](https://github.com/mindinventory1/Geofence/blob/master/LICENSE).
+ZcoinCryptoCurrency is [MIT-licensed](https://github.com/Mindinventory/ZcoinCryptoCurrency/blob/master/LICENSE.txt).
      
 ## Let us know!
 We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
